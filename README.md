@@ -12,7 +12,7 @@ class WhoAmI:
       ]
       
       current_knowledgeable = [
-      	      'Python'
+      	'Python'
       ]
       likes = [
 	      'Programming'
