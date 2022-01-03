@@ -15,10 +15,10 @@ class WhoAmI:
       	'Python'
       ]
       likes = [
-	      'Programming'
-	      'Astronomy'
-	      'Web Development'
-	      'Video Games'
+	      'Programming',
+	      'Astronomy',
+	      'Web Development',
+	      'Video Games',
 	      'Food'
       ]
       
