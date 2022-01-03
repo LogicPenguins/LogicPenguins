@@ -19,8 +19,8 @@ class WhoAmI:
       ]
       
     def goals(self):
-	pursue_software_dev()
-	buy_a_telescope()
-	get_into_stanford()
+		pursue_software_dev()
+		buy_a_telescope()
+		get_into_stanford()
 	
  ```
