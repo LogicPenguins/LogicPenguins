@@ -5,7 +5,7 @@ class WhoAmI:
       current_edu = 'HS Sophomore'
       currently_learning = [
       	'Javascript',
-        'Bootstrap'
+         'Bootstrap'
       ]
       
       current_knowledgeable = [
