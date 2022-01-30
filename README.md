@@ -4,12 +4,13 @@ class WhoAmI:
       username = 'Logic'
       current_edu = 'HS Sophomore'
       currently_learning = [
-	      'HTML',
-	      'CSS', 
-	      'JavaScript'
+      	'Javascript',
+	'Bootstrap'
       ]
       
       current_knowledgeable = [
+      	'HTML'
+      	'CSS/SCSS'
       	'Python'
       ]
       likes = [
