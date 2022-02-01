@@ -12,6 +12,7 @@ class WhoAmI:
       	'HTML'
       	'CSS/SCSS'
       	'Python'
+	'Figma'
       ]
       likes = [
 	      'Programming',
