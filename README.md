@@ -23,9 +23,9 @@ class WhoAmI:
       ]
       
     def goals(self):
-		pursue_software_dev()
+		pursue_astronautical_engineering()
 		buy_a_telescope()
-		get_into_stanford()
+		get_into_stanford(difficulty="hard")
 		
 
 my_socials = {
